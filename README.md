@@ -53,7 +53,7 @@ Protein과 Protein 사이에 Hydrogen bond distance를 예측하는 것은 Prote
 
 결합이 형성되었다는 것은 원자 각각으로 따로 존재할 때보다 에너지적으로 안정하다는 뜻이다(결합 에너지).
 
-![Example instance](https://github.com/bloodmage1/Multimodal_paper/blob/main/Change_of_energy.png)
+![Example instance](https://github.com/bloodmage1/protein-protein/blob/main/Change_of_energy.png)
 
 **1. 두 입자가 무한히 떨어져 있는 경우 두 원자가 각각 따로 존재할 때보다 불안정해지면 포텐셜 에너지는 + 값을 갖고, 안정해지면 - 값을 갖는다.**
 
@@ -67,4 +67,4 @@ Protein과 Protein 사이에 Hydrogen bond distance를 예측하는 것은 Prote
 
 이 지점에서의 입자 사이 거리를 결합 길이라 하며, 안정화된 정도를 결합 에너지라 한다. 예를 들어 수소 분자의 결합 길이는 74pm, 결합 에너지는 436KJ이다. 2몰의 수소 원자로 각각 존재할 때보다 1몰의 수소 분자를 형성했을 때, 436KJ만큼 안정해지는 것이다.
 
-![Example instance](https://github.com/bloodmage1/Multimodal_paper/blob/main/Energy_curve.png)
+![Example instance](https://github.com/bloodmage1/protein-protein/blob/main/Energy_curve.png)
