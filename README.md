@@ -17,7 +17,7 @@
 
 # 문제와 배경지식
 
-Protein과 Protein 사이에 Hydrogen bond distance를 예측하는 것은 Protein-protein Interaction을 이해하는데 큰 도움이 됩니다. 이를 이용해서 Unknown protein sequence 두개가 있을 때, 이 사이의 Hydrogen bond distance를 예측할 수 있는 AI 모델을 만들어주세요.
+Protein과 Protein 사이에 Hydrogen bond distance를 예측하는 것은 Protein-protein Interaction을 이해하는데 큰 도움이 됩니다. 이를 이용해서 Unknown protein sequence 두개가 있을 때, 이 사이의 Hydrogen bond distance를 예측할 수 있는 AI 모델을 만들어주세요 [대회정보](https://dacon.io/competitions/official/236030/overview/description).
 
 
 # 단백질 도메인
